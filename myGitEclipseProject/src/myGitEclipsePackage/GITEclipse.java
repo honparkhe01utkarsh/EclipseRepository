@@ -8,6 +8,7 @@ public class GITEclipse {
 		System.out.println("I love my india");
 		System.out.println("Ye mera india");
 		System.out.println("Hello World");
+		System.out.println("Teri ma ki choot")
 	}
 
 }
